@@ -3,11 +3,7 @@
 CS student at UTA | Building full-stack apps | Interested in fintech
 
 ## 🛠️ Tech Stack
-React Native · Node.js · Express · Java · Python
-
-## 🚀 What I'm building
-- **Sortify** — email filtering mobile app (React Native/Expo)
-- **Spookie** — full-stack horror story platform
+React Native · Node.js · Express · Java · JS 
 
 ## 📫 Connect
 [Portfolio](https://lcpratik.com) · [LinkedIn](#) · [Email](mailto:lcpratik75@gmail.com)
