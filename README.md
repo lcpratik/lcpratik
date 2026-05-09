@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pratik 👋
 
-<!--
-**lcpratik/lcpratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at UTA | Building full-stack apps | Interested in fintech
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+React Native · Node.js · Express · Java · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+- **Sortify** — email filtering mobile app (React Native/Expo)
+- **Spookie** — full-stack horror story platform
+
+## 📫 Connect
+[Portfolio](https://lcpratik.com) · [LinkedIn](#) · [Email](mailto:lcpratik75@gmail.com)
+
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
