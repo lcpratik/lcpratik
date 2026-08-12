@@ -1,6 +1,6 @@
 # Hi, I'm Pratik 👋
 
-CS student at UTA | Building full-stack apps | Interested in fintech
+CS student at UTA | Building full-stack apps 
 
 ## 🛠️ Tech Stack
 React Native · Node.js · Express · Java · JS 
