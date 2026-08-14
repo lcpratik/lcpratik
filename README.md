@@ -12,10 +12,12 @@
 
 <br/>
 
-## &nbsp; ABOUT ME
+## 🚕&nbsp; ABOUT ME
 
 ```
-> Hi, I'm Pratik — a Junior CS student at UTA. I'm currently chasing an internship.
+> Hi, I'm Pratik — a Junior CS student at UTA, originally from Kathmandu, Nepal,
+> now based in the DFW area. I build full-stack apps, tinker with fintech ideas,
+> and I'm currently chasing an internship in financial technology.
 ```
 
 <table>
@@ -26,6 +28,16 @@
 University of Texas at Arlington
 B.S. Computer Science · GPA 3.85
 Graduating May 2028
+
+</td>
+<td width="50%" valign="top">
+
+**🔬&nbsp; RESEARCH**
+Research Assistant — Prof. Csallner
+Working on **TreeVada**, a grammar
+induction project using the Lark parser
+
+</td>
 </tr>
 </table>
 
