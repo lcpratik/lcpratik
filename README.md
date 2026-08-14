@@ -15,9 +15,7 @@
 ## &nbsp; ABOUT ME
 
 ```
-> Hi, I'm Pratik — a Junior CS student at UTA, originally from Kathmandu, Nepal,
-> now based in the DFW area. I build full-stack apps, tinker with fintech ideas,
-> and I'm currently chasing an internship in financial technology.
+> Hi, I'm Pratik — a Junior CS student at UTA. I'm currently chasing an internship.
 ```
 
 <table>
