@@ -34,8 +34,6 @@
 
 </div>
 
-<br/>
-
 ## &nbsp; CONNECT
 
 <div align="center">
