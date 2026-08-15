@@ -36,7 +36,7 @@
 
 <br/>
 
-## 📍&nbsp; CONNECT
+## &nbsp; CONNECT
 
 <div align="center">
 
