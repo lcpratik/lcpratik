@@ -18,10 +18,6 @@
 > Hi, I'm Pratik — a Junior CS student at UTA. I am currently looking for an internship.
 ```
 
-**🎓&nbsp; EDUCATION**
-University of Texas at Arlington — B.S. Computer Science
-<br/>
-
 ## &nbsp; TECH STACK
 
 <div align="center">
