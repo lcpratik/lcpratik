@@ -10,10 +10,7 @@
 
 </div>
 
-<br/>
-
 ## &nbsp; ABOUT ME
-
 ```
 > Hi, I'm Pratik — a Junior CS student at UTA. I am currently looking for an internship.
 ```
