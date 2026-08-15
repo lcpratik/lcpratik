@@ -5,10 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=500&size=18&duration=1&repeat=false&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=40&lines=CS+Student+at+UTA+%7C+Full-Stack+Developer" width="100%"/>
 <br/>
-![Static Badge](https://img.shields.io/badge/UTA-CS%20JUNIOR-06C167?style=for-the-badge&labelColor=FFFFFF&color=06C167&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/GRAD-MAY%202028-06C167?style=for-the-badge&labelColor=FFFFFF&color=06C167&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/STATUS-BUILDING-06C167?style=for-the-badge&labelColor=FFFFFF&color=06C167&logoColor=000000)
-</div>
 
 ## &nbsp; ABOUT ME
 
