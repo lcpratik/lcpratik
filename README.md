@@ -44,8 +44,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,0&height=100&section=footer" width="100%"/>
 </div>
