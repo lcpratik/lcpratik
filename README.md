@@ -12,21 +12,17 @@
 
 <br/>
 
-## 🚕&nbsp; ABOUT ME
+## &nbsp; ABOUT ME
 
 ```
-> Hi, I'm Pratik — a Junior CS student at UTA, originally from Kathmandu, Nepal,
-> now based in the DFW area. I build full-stack apps and love turning ideas
-> into working products, end to end.
+> Hi, I'm Pratik — a Junior CS student at UTA. I am currently looking for an internship.
 ```
 
 **🎓&nbsp; EDUCATION**
 University of Texas at Arlington — B.S. Computer Science
-GPA 3.85 · Graduating May 2028
-
 <br/>
 
-## 🛠️&nbsp; TECH STACK
+## &nbsp; TECH STACK
 
 <div align="center">
 
